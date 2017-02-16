@@ -14,7 +14,7 @@
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application demo ISTIA CERPEP ANGERS</span>.
+				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application demo ISTIA CERPEP ANGERS - bcoucou de softway</span>.
 			<INPUT TYPE="button" VALUE="Une Grille Sudoku ?" onClick="sudoku()">
 			</td>
 		</tr>
